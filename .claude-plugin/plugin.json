@@ -15,5 +15,8 @@
     "transacao-tributaria",
     "divida-ativa",
     "porto-fiscal"
-  ]
+  ],
+  "homepage": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin",
+  "repository": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin",
+  "privacyPolicyUrl": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin/blob/main/PRIVACY.md"
 }

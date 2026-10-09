@@ -35,6 +35,12 @@
       "Leia este prospect com visão comercial"
     ],
     "composerIcon": "./assets/gpt-icon.jpg",
-    "logo": "./assets/gpt-icon.jpg"
-  }
+    "logo": "./assets/gpt-icon.jpg",
+    "websiteURL": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin",
+    "supportURL": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin/issues",
+    "privacyPolicyURL": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin/blob/main/LICENSE"
+  },
+  "homepage": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin",
+  "repository": "https://github.com/portofiscalcwb-spec/lucy-porto-fiscal-plugin"
 }

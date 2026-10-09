@@ -37,7 +37,7 @@ partes por limite de tamanho de arquivo.
 O plugin contém apenas instruções e arquivos de consulta. Ele **não** executa
 programas, não acessa a internet por conta própria e não envia dados para a Porto
 Fiscal nem para terceiros. O que você cola na conversa é processado pelo assistente
-que você usa (ChatGPT ou Claude), conforme a política de privacidade dele.
+que você usa (ChatGPT ou Claude), conforme a política de privacidade dele. Veja a [Política de Privacidade](PRIVACY.md) (Privacy).
 
 ## Aviso
 
