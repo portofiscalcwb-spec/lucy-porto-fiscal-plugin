@@ -1,0 +1,110 @@
+{
+  "files": [
+    {
+      "name": "AnáliseContábilrelatórios.docx",
+      "path": "references/AnáliseContábilrelatórios.docx"
+    },
+    {
+      "name": "CPC_normas_correlatas_16ed.pdf",
+      "path": "references/CPC_normas_correlatas_16ed.pdf"
+    },
+    {
+      "name": "DECRETO Nº 12.955, DE 29 DE ABRIL DE 2026 - DECRETO Nº 12.955, DE 29 DE ABRIL DE 2026 - DOU - Imprensa Nacional.pdf",
+      "path": "references/DECRETO Nº 12.955, DE 29 DE ABRIL DE 2026 - DECRETO Nº 12.955, DE 29 DE ABRIL DE 2026 - DOU - Imprensa Nacional.pdf"
+    },
+    {
+      "name": "Diretriz de comportamento para AI LUCY.pdf",
+      "path": "references/Diretriz de comportamento para AI LUCY.pdf"
+    },
+    {
+      "name": "EDITAL PGDAU Nº 1, DE 29 DE JANEIRO DE 2026 - EDITAL PGDAU Nº 1, DE 29 DE JANEIRO DE 2026 - DOU - Imprensa Nacional.pdf",
+      "path": "references/EDITAL PGDAU Nº 1, DE 29 DE JANEIRO DE 2026 - EDITAL PGDAU Nº 1, DE 29 DE JANEIRO DE 2026 - DOU - Imprensa Nacional.pdf"
+    },
+    {
+      "name": "EDITAL PGDAU Nº 16, DE 30 DE SETEMBRO DE 2025 - EDITAL PGDAU Nº 16, DE 30 DE SETEMBRO DE 2025 - DOU - Imprensa Nacional.pdf",
+      "path": "references/EDITAL PGDAU Nº 16, DE 30 DE SETEMBRO DE 2025 - EDITAL PGDAU Nº 16, DE 30 DE SETEMBRO DE 2025 - DOU - Imprensa Nacional.pdf"
+    },
+    {
+      "name": "LEI COMPLEMENTAR Nº 236, DE 4 DE SETEMBRO DE 2026 - LEI COMPLEMENTAR Nº 236, DE 4 DE SETEMBRO DE 2026 - DOU - Imprensa Nacional.pdf",
+      "path": "references/LEI COMPLEMENTAR Nº 236, DE 4 DE SETEMBRO DE 2026 - LEI COMPLEMENTAR Nº 236, DE 4 DE SETEMBRO DE 2026 - DOU - Imprensa Nacional.pdf"
+    },
+    {
+      "name": "Manual de Boas Práticas da Advocacia Corporativa - OABPR.pdf",
+      "path": "references/Manual de Boas Práticas da Advocacia Corporativa - OABPR.pdf"
+    },
+    {
+      "name": "PORTARIA PGFN_MF Nº 903, DE 31 DE MARÇO DE 2026 - PORTARIA PGFN_MF Nº 903, DE 31 DE MARÇO DE 2026 - DOU - Imprensa Nacional.pdf",
+      "path": "references/PORTARIA PGFN_MF Nº 903, DE 31 DE MARÇO DE 2026 - PORTARIA PGFN_MF Nº 903, DE 31 DE MARÇO DE 2026 - DOU - Imprensa Nacional.pdf"
+    },
+    {
+      "name": "PROMPT MESTRE LUCY.pdf",
+      "path": "references/PROMPT MESTRE LUCY.pdf"
+    },
+    {
+      "name": "Presidência da República.pdf",
+      "path": "references/Presidência da República.pdf"
+    },
+    {
+      "name": "REGULAMENTO DO IBS.pdf",
+      "path": "references/REGULAMENTO DO IBS.pdf"
+    },
+    {
+      "name": "REQUERIMENTO DE TRANSAÇÃO MODALIDADES DO EDITAL PGDAU nº 6_2024.odt",
+      "path": "references/REQUERIMENTO DE TRANSAÇÃO MODALIDADES DO EDITAL PGDAU nº 6_2024.odt"
+    },
+    {
+      "name": "Relatório Técnico Porto Fiscal Consultoria Tributária.pdf",
+      "path": "references/Relatório Técnico Porto Fiscal Consultoria Tributária.pdf"
+    },
+    {
+      "name": "Vade_mecum_EC134_2024_parte01de04_pags1-122.pdf",
+      "path": "references/Vade_mecum_EC134_2024_parte01de04_pags1-122.pdf",
+      "part_of": "Vade_mecum_EC134_2024.pdf"
+    },
+    {
+      "name": "Vade_mecum_EC134_2024_parte02de04_pags123-639.pdf",
+      "path": "references/Vade_mecum_EC134_2024_parte02de04_pags123-639.pdf",
+      "part_of": "Vade_mecum_EC134_2024.pdf"
+    },
+    {
+      "name": "Vade_mecum_EC134_2024_parte03de04_pags640-943.pdf",
+      "path": "references/Vade_mecum_EC134_2024_parte03de04_pags640-943.pdf",
+      "part_of": "Vade_mecum_EC134_2024.pdf"
+    },
+    {
+      "name": "Vade_mecum_EC134_2024_parte04de04_pags944-944.pdf",
+      "path": "references/Vade_mecum_EC134_2024_parte04de04_pags944-944.pdf",
+      "part_of": "Vade_mecum_EC134_2024.pdf"
+    },
+    {
+      "name": "base_conhecimento_completa_final1.json",
+      "path": "references/base_conhecimento_completa_final1.json"
+    },
+    {
+      "name": "manual_prescricao_decadencia1.pdf",
+      "path": "references/manual_prescricao_decadencia1.pdf"
+    },
+    {
+      "name": "pgfn_2025_1103_11h46_final_parte01de02_pags1-30.pdf",
+      "path": "references/pgfn_2025_1103_11h46_final_parte01de02_pags1-30.pdf",
+      "part_of": "pgfn_2025_1103_11h46_final.pdf"
+    },
+    {
+      "name": "pgfn_2025_1103_11h46_final_parte02de02_pags31-50.pdf",
+      "path": "references/pgfn_2025_1103_11h46_final_parte02de02_pags31-50.pdf",
+      "part_of": "pgfn_2025_1103_11h46_final.pdf"
+    },
+    {
+      "name": "roteiro_vendas1.pdf",
+      "path": "references/roteiro_vendas1.pdf"
+    },
+    {
+      "name": "INPDFViewer (1).pdf",
+      "path": "references/INPDFViewer (1).pdf"
+    },
+    {
+      "name": "EDITAL DE TRANSAÇÃO POR ADESÃO PGDAU Nº 10, DE 30 DE SETEMBRO DE 2026.pdf",
+      "path": "references/EDITAL DE TRANSAÇÃO POR ADESÃO PGDAU Nº 10, DE 30 DE SETEMBRO DE 2026.pdf"
+    }
+  ]
+}

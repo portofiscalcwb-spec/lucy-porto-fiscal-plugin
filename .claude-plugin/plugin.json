@@ -1,0 +1,19 @@
+{
+  "name": "lucy-porto-fiscal",
+  "displayName": "Lucy Porto Fiscal",
+  "version": "0.67.0",
+  "description": "Estrategista comercial da Porto Fiscal: agenda SDR, score de leads, scripts de abordagem e follow-up, e diagnóstico de dívida ativa e transação na PGFN.",
+  "author": {
+    "name": "ELOIR RODRIGUES MARTINS",
+    "email": "portofiscalcwb@gmail.com"
+  },
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "vendas",
+    "sdr",
+    "pgfn",
+    "transacao-tributaria",
+    "divida-ativa",
+    "porto-fiscal"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "lucy-porto-fiscal",
+  "version": "0.67.0",
+  "description": "Especialista em vendas consultivas com inteligência jurídica, regional, agenda PGFN, score SDR, auditor SDR sob demanda e inteligência preditiva comercial.",
+  "author": {
+    "name": "ELOIR RODRIGUES MARTINS",
+    "email": "portofiscalcwb@gmail.com"
+  },
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "vendas",
+    "sdr",
+    "pgfn",
+    "transacao-tributaria",
+    "divida-ativa",
+    "porto-fiscal"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Lucy Porto Fiscal",
+    "shortDescription": "Vendas consultivas e PGFN",
+    "longDescription": "Lucy é a estrategista comercial da Porto Fiscal. Lê agendas SDR, calcula score de fechabilidade, prioriza leads e monta abordagem, scripts de WhatsApp e ligação, objeções e follow-ups. Também faz leitura jurídico-tributária de empresas com dívida ativa na PGFN: transação por adesão, parcelamentos, prescrição e decadência, com base em editais PGDAU, portarias e legislação incluídos no plugin. Conteúdo informativo; não substitui análise profissional individual.",
+    "developerName": "ELOIR RODRIGUES MARTINS",
+    "category": "Business & Operations",
+    "capabilities": [
+      "Leitura e priorização de agenda SDR",
+      "Score de fechabilidade e inteligência preditiva",
+      "Scripts de abordagem, objeções e follow-up",
+      "Diagnóstico de dívida ativa e transação na PGFN",
+      "Torre de Controle comercial"
+    ],
+    "defaultPrompt": [
+      "Analise esta agenda SDR completa",
+      "Monte abordagem e follow para este lead",
+      "Leia este prospect com visão comercial"
+    ],
+    "composerIcon": "./assets/gpt-icon.jpg",
+    "logo": "./assets/gpt-icon.jpg"
+  }
+}

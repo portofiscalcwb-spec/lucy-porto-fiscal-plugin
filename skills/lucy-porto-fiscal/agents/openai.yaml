@@ -1,0 +1,4 @@
+interface:
+  default_prompt: Analise esta agenda SDR completa
+  display_name: Lucy Porto Fiscal
+  short_description: Vendas consultivas e PGFN

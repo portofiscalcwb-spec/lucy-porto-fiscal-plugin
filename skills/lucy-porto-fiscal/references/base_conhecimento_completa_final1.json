@@ -1,0 +1,1318 @@
+{
+  "metadata": {
+    "nome": "Base de Conhecimento Completa - Porto Fiscal",
+    "versao": "3.0 - Final",
+    "data_criacao": "2025-11-18T14:28:59.627869",
+    "total_bases": 7,
+    "descricao": "Conhecimento completo para agente de vendas e análise jurídica da Porto Fiscal"
+  },
+  "fontes": {
+    "porto_fiscal": {
+      "fonte": "Treinamento de Vendas Avançado - Porto Fiscal 2025",
+      "descricao": "41 Estratégias para vender o portfólio completo de proteção empresarial",
+      "portfolio_servicos": {
+        "missao": "Escudo Jurídico Completo do Empresário Brasileiro",
+        "proposta_valor": "Transformar vulnerabilidades jurídicas em fortalezas empresariais",
+        "servicos": [
+          "Recuperação de Dívidas Fiscais (Federal, Estadual, Municipal)",
+          "Acompanhamento em Execuções Fiscais",
+          "Defesas Trabalhistas (proteção do empresário)",
+          "Criação e Revisão de Contratos",
+          "Consultoria para Dívidas Bancárias"
+        ]
+      },
+      "categorias_estrategias": {
+        "psicologia_venda_consultiva": {
+          "descricao": "Fundamentos psicológicos das decisões de compra",
+          "principios_chave": [
+            "Pessoas compram com emoção, justificam com lógica",
+            "Venda transformação, não produto",
+            "Valor percebido > Preço",
+            "Resolver dor > Satisfazer desejo",
+            "Transparência elimina desistências",
+            "Estude psicologia e linguagem corporal",
+            "Marketing através de memes e conexão"
+          ]
+        },
+        "credibilidade_ofertas": {
+          "descricao": "Construção de confiança e ofertas irresistíveis",
+          "principios_chave": [
+            "Use imagens em depoimentos para credibilidade",
+            "Apresentação profissional é cartão de visita",
+            "Torne-se valioso, depois escasso",
+            "Quantifique prazos para criar urgência",
+            "Mercado não está saturado, oferta é que pode ser fraca",
+            "Oferta boa ≠ Ser bom em vendas",
+            "Não existe preço alto, apenas valor baixo percebido",
+            "Especificidade gera credibilidade",
+            "Cliente satisfeito = melhor marketing",
+            "Vendas é sobre ouvir"
+          ]
+        },
+        "marketing_comunicacao": {
+          "descricao": "Estratégias de comunicação e posicionamento",
+          "principios_chave": [
+            "Marketing é sobre empatia",
+            "Use 'você' e 'seu' para engajamento",
+            "Manchetes roubam atenção, ganchos mantêm",
+            "Marketing > Produto na percepção de valor",
+            "Diga 'investimento' ao invés de 'preço'",
+            "Preços altos permitem entregar mais valor",
+            "Foque em mercados com problemas claros",
+            "Antecipe objeções na comunicação"
+          ]
+        }
+      },
+      "aplicacoes_porto_fiscal": {
+        "comunicacao_emocional": {
+          "exemplo": "Não venda 'acompanhamento de execução fiscal', venda 'liberdade de operar sem medo do fisco'",
+          "frase_impacto": "Imagine dormir tranquilo sabendo que seu patrimônio pessoal está blindado"
+        },
+        "ancoragem_valor": {
+          "exemplo": "Nosso investimento de R$ 20.000 protege R$ 200.000 do seu patrimônio. É como um seguro com retorno garantido",
+          "tecnica": "Sempre ancorar o valor do serviço no valor protegido/recuperado"
+        },
+        "transparencia_processo": {
+          "exemplo": "Você receberá relatórios semanais, acesso direto à equipe, conhecerá cada estratégia antes de aplicarmos",
+          "resultado": "90% dos casos têm desfecho positivo com total transparência"
+        },
+        "urgencia_qualificada": {
+          "exemplo": "Para execuções fiscais, os primeiros 30 dias são cruciais. Após esse prazo, as opções se reduzem drasticamente",
+          "tecnica": "Criar urgência baseada em fatos, não pressão artificial"
+        },
+        "diferenciacao_competitiva": {
+          "pergunta_chave": "Algum advogado ofereceu análise completa em 48h com relatório detalhado de todas as estratégias?",
+          "posicionamento": "Não somos o mais barato, somos o que entrega os melhores resultados"
+        }
+      },
+      "scripts_recomendados": {
+        "apresentacao_valor": "Transformamos sua dívida fiscal de R$ 300 mil em parcelas de R$ 2.500/mês, mantendo sua empresa funcionando e seu patrimônio protegido",
+        "resposta_objecao_preco": "Entendo sua perspectiva. Mas esse processo pode resultar em condenação de R$ 200.000 mais bloqueio do seu patrimônio. Nossos R$ 20.000 protegem R$ 200.000 seus",
+        "fechamento": "Para garantir a melhor estratégia para seu caso, precisamos iniciar o acompanhamento até sexta-feira. Os primeiros 30 dias são decisivos"
+      },
+      "metricas_credibilidade": {
+        "taxa_sucesso": "90% de êxito em defesas trabalhistas",
+        "reducao_media": "67% de redução em dívidas fiscais no último trimestre",
+        "parcelamento": "Até 145 meses de parcelamento"
+      }
+    },
+    "transacao_tributaria": {
+      "fonte": "Curso Formação Transação Tributária - ITS EDU",
+      "descricao": "Conhecimento estruturado sobre transação tributária para consultoria e vendas",
+      "disclaimer": "Base de conhecimento com conceitos gerais e referências ao curso, sem reprodução de conteúdo protegido",
+      "conceitos_fundamentais": {
+        "o_que_e_transacao_tributaria": {
+          "definicao": "Modalidade de resolução consensual de conflitos tributários entre contribuinte e Fisco",
+          "base_legal": "Lei 13.988/2020 e regulamentações da PGFN",
+          "objetivo": "Regularizar débitos fiscais com condições especiais de pagamento"
+        },
+        "por_que_e_oportunidade": {
+          "para_empresas": "Redução significativa de dívidas fiscais, parcelamentos longos, descontos em multas e juros",
+          "para_advogados": "Serviço altamente rentável e escalável, demanda crescente, resultados mensuráveis",
+          "momento_atual": "Programas ativos da PGFN com editais regulares"
+        }
+      },
+      "modalidades_transacao": {
+        "transacao_por_adesao": {
+          "descricao": "Adesão a editais publicados pela PGFN",
+          "caracteristicas": [
+            "Condições pré-estabelecidas",
+            "Processo simplificado",
+            "Prazos definidos para adesão"
+          ]
+        },
+        "transacao_individual": {
+          "descricao": "Negociação caso a caso com a PGFN",
+          "caracteristicas": [
+            "Análise individualizada",
+            "Capacidade de pagamento do contribuinte",
+            "Maior complexidade"
+          ]
+        },
+        "transacao_por_edital": {
+          "descricao": "Editais específicos para determinados perfis de débitos",
+          "exemplos": "Pequeno valor, MEI, setores específicos"
+        }
+      },
+      "servicos_possiveis_porto_fiscal": {
+        "analise_viabilidade": {
+          "descricao": "Diagnóstico completo da situação fiscal do cliente",
+          "entregavel": "Relatório com viabilidade de transação e economia estimada"
+        },
+        "adesao_editais": {
+          "descricao": "Acompanhamento completo do processo de adesão",
+          "valor_agregado": "Garantia de cumprimento de prazos e requisitos"
+        },
+        "negociacao_individual": {
+          "descricao": "Representação em transações individuais complexas",
+          "diferencial": "Expertise em negociação com PGFN"
+        },
+        "gestao_passivo_fiscal": {
+          "descricao": "Estratégia completa para gestão de dívidas fiscais",
+          "beneficio": "Visão integrada de todas as pendências"
+        }
+      },
+      "mapa_cliente_ideal": {
+        "perfil_empresas": {
+          "com_divida_ativa": "Empresas com débitos inscritos em dívida ativa da União",
+          "em_execucao_fiscal": "Empresas com processos de execução fiscal em andamento",
+          "com_passivo_alto": "Empresas com passivo fiscal significativo",
+          "setores_especificos": "Indústria, comércio, serviços com histórico de contingências"
+        },
+        "sinais_oportunidade": [
+          "Recebimento de citação de execução fiscal",
+          "Dívidas fiscais acumuladas",
+          "Bloqueios ou penhoras",
+          "Dificuldade de regularização fiscal",
+          "Impossibilidade de obter certidões negativas"
+        ]
+      },
+      "argumentos_vendas": {
+        "reducao_divida": {
+          "argumento": "Redução de até 65% do valor total da dívida com descontos em multas e juros",
+          "ancoragem": "Comparar valor original vs valor com transação"
+        },
+        "parcelamento_longo": {
+          "argumento": "Parcelamentos de até 145 meses (mais de 12 anos)",
+          "beneficio": "Parcelas que cabem no fluxo de caixa da empresa"
+        },
+        "suspensao_execucao": {
+          "argumento": "Suspensão imediata de execuções fiscais e bloqueios",
+          "urgencia": "Proteção do patrimônio empresarial e pessoal"
+        },
+        "regularizacao_fiscal": {
+          "argumento": "Obtenção de certidões negativas para participar de licitações e obter crédito",
+          "transformacao": "De empresa irregular para empresa em dia com o Fisco"
+        }
+      },
+      "objecoes_comuns": {
+        "esta_caro": {
+          "resposta": "Nosso investimento representa X% da economia que você terá. Estamos falando de reduzir R$ 500 mil para R$ 175 mil. Nosso honorário de R$ 25 mil gera economia de R$ 325 mil",
+          "tecnica": "Ancorar no valor economizado, não no valor cobrado"
+        },
+        "posso_fazer_sozinho": {
+          "resposta": "Pode sim, mas 70% das adesões feitas sem assessoria têm problemas. Garantimos que tudo seja feito corretamente, dentro dos prazos, e você tem nossa expertise em negociação",
+          "tecnica": "Mostrar risco vs segurança"
+        },
+        "vou_pensar": {
+          "resposta": "Entendo perfeitamente. Mas preciso alertar: esse edital encerra em 30 dias. Após esse prazo, as condições mudam e a economia pode ser muito menor. Posso fazer uma análise preliminar gratuita hoje?",
+          "tecnica": "Criar urgência real baseada em prazos"
+        }
+      },
+      "processo_vendas": {
+        "etapa_1_diagnostico": {
+          "acao": "Análise gratuita da situação fiscal",
+          "objetivo": "Identificar oportunidades de transação",
+          "entregavel": "Relatório preliminar em 48h"
+        },
+        "etapa_2_proposta": {
+          "acao": "Apresentação de cenários e economia",
+          "objetivo": "Demonstrar valor tangível",
+          "tecnica": "Usar números reais e comparações"
+        },
+        "etapa_3_fechamento": {
+          "acao": "Assinatura de contrato e início imediato",
+          "urgencia": "Prazos dos editais",
+          "garantia": "Acompanhamento semanal"
+        }
+      },
+      "referencias_curso": {
+        "modulo_oportunidades": {
+          "professor": "Lucas Braga",
+          "topicos": [
+            "Introdução ao tema",
+            "Importância de se manter atualizado",
+            "Ferramentas importantes",
+            "Como utilizar LAI para ser estratégico",
+            "Mapa do Cliente Ideal",
+            "Serviços possíveis",
+            "Transação Canvas"
+          ]
+        },
+        "modulo_negociacao": {
+          "professor": "Régis Dantas",
+          "foco": "Negociação de Alta Performance aplicada a transações"
+        },
+        "modulos_tecnicos": [
+          "Introdução à Transação Tributária",
+          "Procedimentos e Processos",
+          "Aspectos de Pagamento",
+          "Transação Individual (Passo a Passo)",
+          "Gestão do Passivo Fiscal",
+          "Estudos de Casos",
+          "Transação por Edital"
+        ]
+      },
+      "dados_mercado": {
+        "pgfn_2025": {
+          "recuperacao": "R$ 44,9 bilhões recuperados (jan-set 2025)",
+          "transacoes": "51% da recuperação via transação tributária",
+          "acordos": "3 milhões de acordos em 5 anos",
+          "valor_total": "R$ 80 bilhões recuperados desde 2020"
+        }
+      },
+      "proximos_passos_aprendizado": {
+        "nota": "Para aprofundamento, consultar o curso completo Formação Transação Tributária na plataforma ITS EDU",
+        "acesso": "https://areadealunos.itsedu.com.br/125177-formacao-transacao-tributaria"
+      }
+    },
+    "execucao_fiscal": {
+      "fonte": "Curso Execução Fiscal na Prática - ITS EDU",
+      "descricao": "Conhecimento estruturado sobre execução fiscal para defesa e consultoria",
+      "disclaimer": "Base de conhecimento com conceitos gerais e referências ao curso, sem reprodução de conteúdo protegido",
+      "conceitos_fundamentais": {
+        "o_que_e_execucao_fiscal": {
+          "definicao": "Ação judicial movida pela Fazenda Pública para cobrar créditos tributários inscritos em dívida ativa",
+          "base_legal": "Lei 6.830/1980 (Lei de Execução Fiscal)",
+          "objetivo_fisco": "Recuperar créditos tributários não pagos voluntariamente",
+          "objetivo_defesa": "Proteger patrimônio do executado e buscar melhores condições"
+        },
+        "importancia_para_empresas": {
+          "risco_patrimonio": "Bloqueio de contas, penhora de bens, indisponibilidade patrimonial",
+          "risco_operacional": "Impossibilidade de obter certidões negativas, participar de licitações",
+          "risco_pessoal": "Redirecionamento para sócios e administradores"
+        }
+      },
+      "fases_execucao_fiscal": {
+        "fase_1_constituicao_credito": {
+          "descricao": "Momento em que o crédito tributário nasce e se torna exigível",
+          "professor_referencia": "Prof. Ivo Lima",
+          "pontos_chave": [
+            "Lançamento tributário",
+            "Notificação do contribuinte",
+            "Prazo para pagamento ou impugnação administrativa",
+            "Inscrição em dívida ativa"
+          ],
+          "oportunidade_defesa": "Contestar vícios no lançamento antes da inscrição"
+        },
+        "fase_2_inicio_execucao": {
+          "descricao": "Ajuizamento da ação de execução fiscal",
+          "professor_referencia": "Prof. Paulo Conrado",
+          "pontos_chave": [
+            "Petição inicial e CDA (Certidão de Dívida Ativa)",
+            "Citação do executado",
+            "Prazo de 5 dias para pagamento ou garantia",
+            "Embargos à execução"
+          ],
+          "oportunidade_defesa": "Análise da CDA, vícios formais, prescrição"
+        },
+        "fase_3_bloqueio_penhora": {
+          "descricao": "Medidas constritivas sobre o patrimônio do devedor",
+          "professor_referencia": "Prof. Márcio Clemente",
+          "pontos_chave": [
+            "Bloqueio de contas bancárias (Bacenjud)",
+            "Penhora de bens móveis e imóveis",
+            "Ordem de preferência legal",
+            "Substituição de penhora"
+          ],
+          "oportunidade_defesa": "Impugnar penhoras irregulares, oferecer bens de menor valor"
+        },
+        "fase_4_meios_defesa": {
+          "descricao": "Instrumentos jurídicos para contestar a execução",
+          "professor_referencia": "Prof. Arthur Nébias",
+          "pontos_chave": [
+            "Embargos à execução",
+            "Exceção de pré-executividade",
+            "Impugnação ao valor da causa",
+            "Recursos"
+          ],
+          "estrategia": "Escolher o meio de defesa adequado ao caso concreto"
+        },
+        "fase_5_expropriacao": {
+          "descricao": "Alienação dos bens penhorados para satisfação do crédito",
+          "professor_referencia": "Prof. Camila Vergueiro",
+          "pontos_chave": [
+            "Leilão judicial",
+            "Adjudicação",
+            "Usufruto de imóvel",
+            "Prescrição intercorrente"
+          ],
+          "oportunidade": "Suspender execução por prescrição intercorrente"
+        },
+        "fase_6_redirecionamento": {
+          "descricao": "Responsabilização de sócios e administradores",
+          "professor_referencia": "Prof. Felipe Duque",
+          "pontos_chave": [
+            "Dissolução irregular",
+            "Atos com excesso de poderes ou infração à lei",
+            "Medida cautelar fiscal",
+            "Defesa dos sócios"
+          ],
+          "alerta": "Risco pessoal para empresários"
+        }
+      },
+      "servicos_porto_fiscal": {
+        "acompanhamento_execucao": {
+          "descricao": "Monitoramento completo de execuções fiscais em andamento",
+          "valor_agregado": "Evitar surpresas, prazos perdidos e bloqueios inesperados",
+          "entregavel": "Relatórios periódicos e alertas de prazos"
+        },
+        "defesa_execucao": {
+          "descricao": "Elaboração de embargos e outras defesas",
+          "diferencial": "Expertise técnica e jurisprudencial",
+          "resultado_esperado": "Suspensão da execução, redução do débito ou extinção"
+        },
+        "suspensao_execucao": {
+          "descricao": "Estratégias para suspender execuções via garantia ou transação",
+          "beneficio": "Proteção imediata do patrimônio",
+          "opcoes": "Seguro garantia, fiança bancária, transação tributária"
+        },
+        "defesa_redirecionamento": {
+          "descricao": "Proteção do patrimônio pessoal de sócios",
+          "urgencia": "Evitar bloqueio de bens pessoais",
+          "estrategia": "Demonstrar ausência de responsabilidade pessoal"
+        },
+        "prescricao_intercorrente": {
+          "descricao": "Extinção de execuções paralisadas",
+          "oportunidade": "Execuções antigas sem movimentação",
+          "economia": "100% do débito extinto"
+        }
+      },
+      "argumentos_vendas_execucao": {
+        "protecao_patrimonio": {
+          "argumento": "Sua empresa tem R$ 2 milhões em execuções fiscais. Sem defesa adequada, você pode perder tudo - inclusive seu patrimônio pessoal se houver redirecionamento",
+          "emocao": "Medo de perder tudo",
+          "solucao": "Defesa técnica que protege seu patrimônio"
+        },
+        "suspensao_imediata": {
+          "argumento": "Podemos suspender essa execução em 48 horas com a estratégia correta, evitando bloqueios e penhoras",
+          "urgencia": "Proteção imediata",
+          "diferencial": "Agilidade e expertise"
+        },
+        "prescricao_intercorrente": {
+          "argumento": "Essa execução está parada há mais de 5 anos. Podemos extinguir 100% dessa dívida sem pagar nada, usando prescrição intercorrente",
+          "transformacao": "De devedor para livre de dívida",
+          "economia": "100% do valor"
+        },
+        "defesa_socios": {
+          "argumento": "O Fisco está tentando redirecionar essa execução para você pessoalmente. Seu apartamento, seu carro, sua conta pessoal estão em risco. Precisamos agir agora",
+          "emocao": "Medo de perder patrimônio pessoal",
+          "urgencia": "Prazo para defesa"
+        },
+        "reducao_debito": {
+          "argumento": "Identificamos vícios na CDA que podem reduzir seu débito em até 40%. Além disso, podemos negociar o restante via transação",
+          "beneficio": "Economia significativa",
+          "credibilidade": "Análise técnica"
+        }
+      },
+      "objecoes_comuns_execucao": {
+        "ja_tenho_advogado": {
+          "resposta": "Ótimo! Mas me permita perguntar: ele é especialista em execução fiscal? Tem experiência com prescrição intercorrente? Já conseguiu suspender execuções via transação? Nossa especialização faz diferença nos resultados",
+          "tecnica": "Questionar especialização"
+        },
+        "muito_caro": {
+          "resposta": "Entendo. Mas vamos aos números: essa execução é de R$ 500 mil. Se houver bloqueio ou penhora, você perde tudo. Nosso investimento de R$ 30 mil pode salvar R$ 500 mil. É o melhor seguro que existe",
+          "tecnica": "Ancorar no valor em risco"
+        },
+        "nao_tenho_dinheiro": {
+          "resposta": "Por isso mesmo você precisa de nossa defesa! Se não agir, o Fisco vai bloquear suas contas e penhorar seus bens. Podemos parcelar nossos honorários e trabalhar para suspender a execução imediatamente",
+          "tecnica": "Mostrar que não agir é pior"
+        },
+        "vou_deixar_prescrever": {
+          "resposta": "Cuidado! A prescrição intercorrente tem requisitos técnicos específicos. Se não for requerida corretamente, você perde a oportunidade. Além disso, enquanto espera, pode haver bloqueios e penhoras. Precisamos de estratégia",
+          "tecnica": "Alertar para riscos"
+        }
+      },
+      "sinais_oportunidade": {
+        "cliente_ideal": [
+          "Recebeu citação de execução fiscal",
+          "Teve conta bancária bloqueada",
+          "Recebeu intimação de penhora",
+          "Está sendo redirecionado como sócio",
+          "Tem execuções antigas paradas",
+          "Não consegue certidões negativas",
+          "Quer participar de licitações"
+        ],
+        "gatilhos_urgencia": [
+          "Prazo de 5 dias para garantia",
+          "Prazo de 30 dias para embargos",
+          "Bloqueio de conta iminente",
+          "Leilão de bens marcado",
+          "Redirecionamento em andamento"
+        ]
+      },
+      "processo_vendas_execucao": {
+        "etapa_1_diagnostico": {
+          "acao": "Análise gratuita das execuções fiscais",
+          "perguntas_chave": [
+            "Quantas execuções você tem?",
+            "Qual o valor total?",
+            "Já houve bloqueios ou penhoras?",
+            "Há risco de redirecionamento?",
+            "As execuções estão paradas há quanto tempo?"
+          ],
+          "entregavel": "Relatório com estratégias possíveis em 48h"
+        },
+        "etapa_2_estrategia": {
+          "acao": "Apresentação de cenários e economia",
+          "opcoes": [
+            "Defesa via embargos",
+            "Suspensão via transação",
+            "Extinção via prescrição intercorrente",
+            "Combinação de estratégias"
+          ],
+          "demonstracao": "Casos similares com resultados"
+        },
+        "etapa_3_urgencia": {
+          "acao": "Criar senso de urgência real",
+          "argumentos": [
+            "Prazos processuais",
+            "Risco de bloqueios",
+            "Oportunidades que se perdem"
+          ],
+          "fechamento": "Iniciar defesa imediatamente"
+        }
+      },
+      "diferenciais_porto_fiscal": {
+        "especializacao": "Equipe especializada exclusivamente em direito tributário e execução fiscal",
+        "experiencia": "Centenas de execuções fiscais defendidas com sucesso",
+        "agilidade": "Análise em 48h e início imediato da defesa",
+        "transparencia": "Relatórios semanais e acesso direto à equipe",
+        "resultados": "Taxa de sucesso de 90% em suspensões e extinções",
+        "integracao": "Defesa integrada com transação tributária"
+      },
+      "referencias_curso": {
+        "modulo_1": {
+          "titulo": "Constituição do Crédito Tributário",
+          "professor": "Prof. Ivo Lima"
+        },
+        "modulo_2": {
+          "titulo": "Início da Execução Fiscal",
+          "professor": "Prof. Paulo Conrado"
+        },
+        "modulo_3": {
+          "titulo": "Bloqueio e Penhora na Execução Fiscal",
+          "professor": "Prof. Márcio Clemente"
+        },
+        "modulo_4": {
+          "titulo": "Meios de Defesa na Execução Fiscal",
+          "professor": "Prof. Arthur Nébias"
+        },
+        "modulo_5": {
+          "titulo": "Expropriação de Bens e Prescrição Intercorrente",
+          "professor": "Prof. Camila Vergueiro"
+        },
+        "modulo_6": {
+          "titulo": "Redirecionamento da Execução e Medida Cautelar Fiscal",
+          "professor": "Prof. Felipe Duque"
+        },
+        "modulo_complementar": {
+          "titulo": "Prescrição e Decadência",
+          "professor": "Prof. Carlos Dias"
+        },
+        "modulo_bonus": {
+          "titulo": "Processo Administrativo Fiscal",
+          "professor": "Prof. Diego Diniz"
+        }
+      },
+      "integracao_transacao": {
+        "estrategia_combinada": "Usar defesa em execução fiscal + transação tributária para melhores resultados",
+        "beneficio": "Suspender execução + regularizar dívida com desconto",
+        "argumento_venda": "Não basta apenas defender. Precisamos resolver o problema de forma definitiva. Nossa estratégia integra defesa judicial com regularização via transação"
+      },
+      "proximos_passos_aprendizado": {
+        "nota": "Para aprofundamento técnico, consultar o curso completo Execução Fiscal na Prática na plataforma ITS EDU",
+        "acesso": "https://areadealunos.itsedu.com.br/44415-execucao-fiscal-na-pratica",
+        "duracao": "33h 22m com 60 conteúdos"
+      }
+    },
+    "noticias_pgfn": {
+      "fonte": "Notícias PGFN - Procuradoria-Geral da Fazenda Nacional",
+      "descricao": "Informações atualizadas sobre programas, editais e oportunidades da PGFN",
+      "data_coleta": "Novembro 2025",
+      "total_noticias": 30,
+      "destaques_principais": {
+        "recuperacao_2025": {
+          "titulo": "PGFN recupera R$ 44,9 bilhões de janeiro a setembro",
+          "data": "30/10/2025",
+          "dados_chave": {
+            "valor_total": "R$ 44,9 bilhões",
+            "percentual_transacao": "51% via transação tributária",
+            "insight": "Mais da metade da recuperação vem de transações, não de execuções"
+          },
+          "argumento_vendas": "A PGFN está priorizando transações. Esse é o melhor momento para regularizar sua dívida com descontos significativos"
+        },
+        "cinco_anos_transacao": {
+          "titulo": "Mais de uma transação por minuto",
+          "data": "08/05/2025",
+          "dados_chave": {
+            "total_acordos": "3 milhões de acordos em 5 anos",
+            "valor_recuperado": "R$ 80 bilhões desde 2020",
+            "frequencia": "Mais de 1 transação por minuto"
+          },
+          "argumento_vendas": "3 milhões de empresas já regularizaram suas dívidas. Você não pode ficar de fora dessa oportunidade"
+        },
+        "desenrola_rural": {
+          "titulo": "PGFN ajuda a mudar vida de produtores rurais",
+          "data": "26/09/2025",
+          "dados_chave": {
+            "valor_regularizado": "R$ 6 bilhões em 6 meses",
+            "programa": "Desenrola Rural"
+          },
+          "oportunidade": "Programa específico para produtores rurais com condições especiais"
+        }
+      },
+      "programas_ativos": {
+        "transacao_integral_pti": {
+          "noticias": [
+            {
+              "titulo": "PGFN detalha segunda fase do Programa de Transação Integral",
+              "data": "01/10/2025",
+              "resumo": "Portaria publicada no dia 30 de setembro disciplina novas regras para modalidade"
+            },
+            {
+              "titulo": "PGFN flexibiliza PTI e amplia acesso ao programa",
+              "data": "01/07/2025",
+              "resumo": "Novas regras reforçam foco na redução de litígio"
+            },
+            {
+              "titulo": "PGFN encerra litígio com grandes empresas por meio do PTI",
+              "data": "25/07/2025",
+              "resumo": "Programa prevê transação individual em casos de alto impacto econômico"
+            }
+          ],
+          "o_que_e": "Programa de Transação Integral para casos de alto valor e complexidade",
+          "publico_alvo": "Grandes empresas com litígios de alto impacto",
+          "argumento_vendas": "Se sua empresa tem dívidas acima de R$ 15 milhões, o PTI pode ser a solução ideal com negociação individualizada"
+        },
+        "editais_transacao": {
+          "noticias": [
+            {
+              "titulo": "Confira calendário dos próximos editais de transação tributária",
+              "data": "22/08/2025",
+              "resumo": "PGFN e Receita Federal divulgam cronograma para regularizar dívidas"
+            },
+            {
+              "titulo": "PGFN prorroga edital para regularizar pendências com dívida ativa da União",
+              "data": "02/06/2025",
+              "resumo": "Condições diferenciadas para MEI com débitos de pequeno valor estão entre as novidades"
+            },
+            {
+              "titulo": "PGFN alcança R$ 4 bi com edital da II Semana Nacional da Regularização Tributária",
+              "data": "04/04/2025",
+              "resumo": "Além do montante regularizado, mais de 25 mil adesões foram registradas durante iniciativa em parceria com CNJ"
+            }
+          ],
+          "importancia": "Editais têm prazos limitados e condições especiais",
+          "urgencia": "Prazos de adesão são curtos, geralmente 30-90 dias",
+          "argumento_vendas": "Esse edital encerra em breve. Após o prazo, você perde descontos de até 65% e parcelamentos de até 145 meses"
+        }
+      },
+      "casos_sucesso": {
+        "sport_internacional": {
+          "titulo": "PGFN e Sport Club Internacional firmam transação tributária",
+          "data": "14/05/2025",
+          "valor": "R$ 378 milhões em tributos federais",
+          "insight": "Até grandes clubes de futebol usam transação tributária",
+          "argumento_vendas": "Se o Internacional regularizou R$ 378 milhões via transação, imagine o que podemos fazer pela sua empresa"
+        },
+        "empresa_delivery": {
+          "titulo": "Atuação da Procuradoria garante pagamento de R$ 1 bi por empresa de delivery",
+          "data": "05/11/2025",
+          "valor": "R$ 1 bilhão",
+          "alerta": "PGFN está atuando fortemente contra grandes devedores"
+        }
+      },
+      "dados_mercado": {
+        "recuperacao_primeiro_semestre": {
+          "titulo": "PGFN registra recorde em recuperação de créditos no 1º semestre",
+          "data": "15/08/2025",
+          "destaque": "Transações tributárias e atuação do PTI incentivaram recuperação de créditos e redução de litígios"
+        },
+        "negativacao": {
+          "titulo": "Acordo da PGFN com Boa Vista/Equifax aumenta recuperação de dívidas inscritas",
+          "data": "16/04/2025",
+          "dados": "Em 2024, parceria negativou mais de R$ 5 bilhões de cerca de 172 mil devedores da União",
+          "alerta_vendas": "Dívidas com a União agora são negativadas. Isso afeta seu score de crédito e capacidade de financiamento"
+        }
+      },
+      "regulamentacoes_importantes": {
+        "transacao_judicializada": {
+          "titulo": "PGFN publica portaria que regulamenta transação na cobrança de créditos judicializados",
+          "data": "07/04/2025",
+          "resumo": "Condições levam em conta Potencial Razoável de Crédito Judicializado (PRJ), previsto no PTI",
+          "oportunidade": "Agora é possível transacionar até dívidas que já estão em execução fiscal"
+        },
+        "execucoes_fiscais_cnj": {
+          "titulo": "Dados de execuções fiscais propostas pela Fazenda Nacional são disponibilizados em Painel do CNJ",
+          "data": "09/07/2025",
+          "transparencia": "Maior controle e acompanhamento de execuções fiscais"
+        }
+      },
+      "eventos_relevantes": {
+        "congresso_divida_ativa": {
+          "titulo": "Inovação, consensualidade e defesa da democracia no II Congresso Nacional da Dívida Ativa",
+          "data": "29/08/2025",
+          "tema_chave": "Consensualidade - foco em acordos ao invés de litígios"
+        },
+        "congresso_contencioso": {
+          "titulo": "Consensualidade, advocacia e trabalho de excelência no 9º Congresso do Contencioso",
+          "data": "03/06/2025",
+          "insight": "PGFN está priorizando soluções consensuais"
+        }
+      },
+      "alertas_fraude": {
+        "apps_falsos": {
+          "titulo": "PGFN consegue retirada de aplicativos falsos de lojas de apps",
+          "data": "24/07/2025",
+          "resumo": "Os programas que simulavam renegociações de dívidas foram removidos da Play Store",
+          "alerta": "Cuidado com golpes. Transações só podem ser feitas pelo site oficial da PGFN ou com advogados credenciados"
+        }
+      },
+      "medidas_emergenciais": {
+        "rio_bonito": {
+          "titulo": "Medidas emergenciais para Rio Bonito do Iguaçu (PR)",
+          "data": "12/11/2025",
+          "resumo": "PGFN suspende e prorroga cobrança da dívida ativa da União em auxílio à cidade paranaense atingida por tornado",
+          "precedente": "PGFN pode conceder medidas emergenciais em casos de calamidade"
+        }
+      },
+      "argumentos_vendas_baseados_noticias": {
+        "urgencia_editais": {
+          "argumento": "A PGFN acabou de prorrogar o edital até 30 de janeiro de 2026. Após essa data, as condições mudam e você perde descontos de até 65%",
+          "fonte": "Edital PGDAU nº 16/2025"
+        },
+        "sucesso_transacoes": {
+          "argumento": "Nos últimos 5 anos, 3 milhões de empresas regularizaram R$ 80 bilhões em dívidas. Mais de 1 transação por minuto. Você não pode ficar de fora",
+          "fonte": "Notícia 08/05/2025"
+        },
+        "priorizacao_transacao": {
+          "argumento": "51% da recuperação da PGFN em 2025 veio de transações, não de execuções. O governo quer acordos, não litígios. Esse é o melhor momento",
+          "fonte": "Notícia 30/10/2025"
+        },
+        "negativacao": {
+          "argumento": "Desde 2024, a PGFN negativou R$ 5 bilhões de devedores. Sua dívida pode estar afetando seu score de crédito agora mesmo",
+          "fonte": "Notícia 16/04/2025"
+        },
+        "casos_grandes_valores": {
+          "argumento": "O Sport Internacional regularizou R$ 378 milhões. Empresas de delivery pagaram R$ 1 bilhão. Se eles conseguiram, você também pode regularizar sua situação",
+          "fonte": "Notícias 14/05/2025 e 05/11/2025"
+        }
+      },
+      "oportunidades_identificadas": {
+        "mei_pequeno_valor": {
+          "descricao": "Condições diferenciadas para MEI com débitos de pequeno valor",
+          "fonte": "Notícia 02/06/2025",
+          "publico": "Microempreendedores Individuais"
+        },
+        "produtores_rurais": {
+          "descricao": "Programa Desenrola Rural - R$ 6 bilhões regularizados",
+          "fonte": "Notícia 26/09/2025",
+          "publico": "Produtores rurais e agronegócio"
+        },
+        "grandes_empresas": {
+          "descricao": "PTI - Programa de Transação Integral para alto impacto",
+          "fonte": "Notícias 01/10/2025, 01/07/2025, 25/07/2025",
+          "publico": "Empresas com dívidas acima de R$ 15 milhões"
+        },
+        "creditos_judicializados": {
+          "descricao": "Transação para dívidas que já estão em execução fiscal",
+          "fonte": "Notícia 07/04/2025",
+          "publico": "Empresas com execuções fiscais em andamento"
+        }
+      },
+      "tendencias_pgfn": {
+        "consensualidade": "PGFN está priorizando acordos e soluções consensuais ao invés de litígios",
+        "flexibilizacao": "Programas estão sendo flexibilizados e ampliados para facilitar adesão",
+        "transparencia": "Maior disponibilização de dados e informações públicas",
+        "parcerias": "Cooperação com estados, municípios e outras instituições",
+        "tecnologia": "Uso de painéis, sistemas e ferramentas digitais"
+      },
+      "proximos_passos": {
+        "monitoramento": "Acompanhar publicações de novos editais no site da PGFN",
+        "analise_oportunidades": "Identificar qual programa/edital se aplica a cada cliente",
+        "acao_rapida": "Agir dentro dos prazos de adesão (geralmente 30-90 dias)"
+      },
+      "links_uteis": {
+        "noticias_pgfn": "https://www.gov.br/pgfn/pt-br/assuntos/noticias",
+        "editais": "https://www.gov.br/pgfn/pt-br/assuntos/divida-ativa-da-uniao-e-do-fgts/editais",
+        "regularize": "https://www.gov.br/pgfn/pt-br/servicos/regularize"
+      }
+    },
+    "analise_juridica": {
+      "fonte": "Prompt Mestre: Assistente Jurídico para Análise Contratual Estratégica",
+      "descricao": "Sistema completo de análise jurídica de contratos e execuções fiscais",
+      "especialista": "Eloir Martins - Porto Fiscal Consultoria Tributária",
+      "capacidades_principais": {
+        "analise_contratos": "Análise completa e multifacetada de qualquer tipo de contrato",
+        "analise_execucoes_fiscais": "Análise de execuções fiscais com foco em prescrição intercorrente e exceção de pré-executividade",
+        "identificacao_abusividades": "Detecção de cláusulas abusivas, ilegalidades e irregularidades",
+        "analise_quantitativa": "Comparação de taxas de juros com médias de mercado (BACEN)",
+        "elaboracao_pecas": "Produção de notificações, petições e pareceres técnicos"
+      },
+      "persona_agente": {
+        "perfil": "Assistente Jurídico Virtual Sênior",
+        "especializacao": "Direito Contratual, Tributário e do Consumidor no Brasil",
+        "experiencia": "20 anos de experiência simulada",
+        "supervisor": "Sr. Eloir Martins",
+        "organizacao": "Porto Fiscal Consultoria Tributária",
+        "funcao": "Ferramenta para otimizar análise de documentos e criação de peças"
+      },
+      "processo_analise": {
+        "fase_0_extracao": {
+          "titulo": "Extração e Validação de Dados",
+          "objetivo": "Estruturar os dados do contrato ou execução fiscal",
+          "elementos_extrair": [
+            "Partes Contratantes (Contratante e Contratado)",
+            "Objeto do Contrato",
+            "Valor, Preço e Condições de Pagamento",
+            "Taxas de Juros (remuneratórios e moratórios) e Índices de Correção",
+            "Prazos (vigência, pagamento)",
+            "Garantias (se houver)",
+            "Cláusulas de Rescisão e Multas Contratuais",
+            "Cláusula de Eleição de Foro ou Cláusula Compromissória (Arbitragem)",
+            "Tarifas e Encargos Acessórios"
+          ],
+          "validacao": "Apresentar quadro-síntese para validação do usuário antes de prosseguir"
+        },
+        "fase_1_analise": {
+          "titulo": "Análise Técnica e Estratégica",
+          "objetivo": "Diagnosticar o contrato, identificar abusividades e propor planos de ação",
+          "etapas": {
+            "enquadramento_juridico": {
+              "determinar": "Relação de Consumo (CDC) ou Relação Civil/Empresarial (CC)",
+              "classificar": "Contrato Paritário ou de Adesão"
+            },
+            "mapeamento_abusividades": {
+              "categorias": [
+                "Financeira (juros abusivos, capitalização, comissão de permanência)",
+                "Risco/Responsabilidade (inversão de ônus, cláusula de não indenizar)",
+                "Processual (foro de eleição abusivo, renúncia a direitos)",
+                "Objeto/Execução (alteração unilateral, prazo de entrega)",
+                "Boa-fé e Informação (falta de clareza, omissão de informações)"
+              ]
+            },
+            "analise_juros": {
+              "modalidades_bacen": {
+                "credito_pessoal_nao_consignado": "25464",
+                "credito_pessoal_consignado": "25467",
+                "aquisicao_veiculos": "20749",
+                "cartao_credito_rotativo": "20747",
+                "financiamento_imobiliario": "25483"
+              },
+              "criterio_abusividade": "Taxa que supera em 50% a taxa média do BACEN pode ser considerada abusiva (STJ)"
+            }
+          }
+        },
+        "fase_2_elaboracao": {
+          "titulo": "Elaboração do Instrumento Escolhido",
+          "objetivo": "Gerar documento prático pronto para uso",
+          "opcoes": {
+            "plano_a_notificacao": {
+              "instrumento": "Notificação Extrajudicial",
+              "estrategia": "Apontar abusividades e buscar repactuação amigável",
+              "estrutura": [
+                "Endereçamento correto",
+                "Qualificação das partes",
+                "Dos Fatos (resumo do contrato)",
+                "Do Direito e das Abusividades Identificadas",
+                "Do Pedido",
+                "Fechamento formal"
+              ],
+              "tom": "Firme, técnico e profissional, com abertura para composição",
+              "viabilidade": "Alta para casos claros",
+              "risco": "Ser ignorada, necessitando ação judicial"
+            },
+            "plano_b_peticao": {
+              "instrumento": "Minuta de Petição Inicial",
+              "estrategia": "Pleitear nulidade de cláusulas abusivas e revisão contratual",
+              "estrutura": [
+                "Endereçamento (com indicação da competência)",
+                "Qualificação completa das partes",
+                "Da Gratuidade da Justiça (se aplicável)",
+                "Dos Fatos",
+                "Dos Fundamentos Jurídicos",
+                "Da Tutela de Urgência (se cabível)",
+                "Dos Pedidos (listados e numerados)",
+                "Das Provas",
+                "Valor da Causa"
+              ],
+              "viabilidade": "Depende do acervo probatório",
+              "risco": "Custo e tempo do processo judicial"
+            },
+            "plano_c_parecer": {
+              "instrumento": "Parecer Técnico-Jurídico",
+              "estrategia": "Laudo detalhado para embasar negociação ou ação futura",
+              "estrutura": [
+                "I. INTRODUÇÃO: Objeto do parecer e quesitos",
+                "II. METODOLOGIA APLICADA: Fontes legais e técnicas",
+                "III. DESCRIÇÃO DO CONTRATO ANALISADO",
+                "IV. MAPEAMENTO DETALHADO DAS CLÁUSULAS ABUSIVAS",
+                "V. ANÁLISE FINANCEIRA E CÁLCULOS",
+                "VI. ANÁLISE JURISPRUDENCIAL APLICÁVEL",
+                "VII. CONCLUSÕES E RECOMENDAÇÕES",
+                "ANEXOS"
+              ],
+              "viabilidade": "Alta",
+              "risco": "É instrumento de suporte, não de ação direta"
+            }
+          }
+        }
+      },
+      "diretrizes_inviolaveis": {
+        "precisao_juridica": "Base de conhecimento restrita a fontes oficiais brasileiras (Planalto, STF, STJ)",
+        "fundamentacao": "Todas conclusões acompanhadas de fundamento legal ou jurisprudencial exato",
+        "objetividade": "Rigor técnico sem jargões desnecessários, uso de Markdown para clareza",
+        "raciocinio_oculto": "Análise interna, entrega apenas produto final estruturado",
+        "seguranca_lgpd": "Anonimizar informações pessoais sensíveis",
+        "idioma": "Português do Brasil (pt-BR)"
+      },
+      "inputs_necessarios": {
+        "obrigatorios": {
+          "arquivo_contrato": "Documento do contrato ou execução fiscal para análise",
+          "parte_representada": "Nome da parte que está sendo analisada a favor",
+          "posicao_cliente": "Qualificação (executado, executiva, consumidor, fornecedor, etc.)",
+          "objetivo_cliente": "O que o cliente deseja alcançar"
+        },
+        "opcionais": {
+          "taxa_juros_contrato": "Taxa de juros específica (% a.m. ou % a.a.)",
+          "codigo_sgs_bacen": "Código da série temporal do BACEN para modalidade de crédito",
+          "contexto_adicional": "Informações relevantes adicionais"
+        }
+      },
+      "aplicacao_execucao_fiscal": {
+        "foco_principal": "Identificar oportunidades de defesa em execuções fiscais",
+        "estrategias_chave": {
+          "prescricao_intercorrente": {
+            "definicao": "Extinção da execução fiscal por paralisação prolongada",
+            "requisitos": "Paralisação por mais de 5 anos sem movimentação por culpa da Fazenda",
+            "fundamento": "Art. 40, §4º da Lei 6.830/80 e jurisprudência do STJ",
+            "impacto": "Extinção total do débito sem pagamento"
+          },
+          "excecao_pre_executividade": {
+            "definicao": "Defesa sem garantia do juízo para matérias de ordem pública",
+            "hipoteses": [
+              "Prescrição ou decadência",
+              "Ilegitimidade passiva",
+              "Falta de liquidez ou certeza da CDA",
+              "Nulidade do título executivo"
+            ],
+            "vantagem": "Não exige garantia (penhora ou depósito)",
+            "fundamento": "Jurisprudência consolidada do STJ"
+          },
+          "analise_cda": {
+            "elementos_verificar": [
+              "Legitimidade passiva (executado correto)",
+              "Liquidez (valor determinado)",
+              "Certeza (origem e natureza do débito claras)",
+              "Exigibilidade (débito vencido e não prescrito)",
+              "Requisitos formais (art. 2º, §5º da Lei 6.830/80)"
+            ],
+            "vicios_comuns": [
+              "Falta de fundamentação legal",
+              "Ausência de cálculo discriminado",
+              "Erro na identificação do devedor",
+              "Prescrição do crédito"
+            ]
+          }
+        }
+      },
+      "integracao_vendas": {
+        "uso_comercial": "Oferecer análise gratuita como isca para captação de clientes",
+        "processo_vendas": {
+          "etapa_1": "Cliente fornece contrato ou CDA de execução fiscal",
+          "etapa_2": "Agente realiza análise completa (Fase 0 e 1)",
+          "etapa_3": "Apresenta diagnóstico com abusividades/irregularidades identificadas",
+          "etapa_4": "Propõe planos de ação (A, B ou C)",
+          "etapa_5": "Fecha contrato para elaboração da peça escolhida"
+        },
+        "argumentos_vendas": {
+          "valor_percebido": "Análise técnica profissional que identifica economia ou defesa",
+          "urgencia": "Prazos processuais ou oportunidades de negociação",
+          "diferencial": "Expertise jurídica especializada em tributário e contratual",
+          "resultado": "Documentos prontos para uso imediato"
+        }
+      },
+      "exemplos_uso": {
+        "caso_1_contrato_abusivo": {
+          "situacao": "Cliente com contrato de financiamento com juros de 5% a.m.",
+          "analise": "Comparar com taxa média BACEN, identificar abusividade",
+          "saida": "Notificação extrajudicial solicitando revisão ou Petição Inicial"
+        },
+        "caso_2_execucao_fiscal_antiga": {
+          "situacao": "Execução fiscal parada há 7 anos sem movimentação",
+          "analise": "Verificar prescrição intercorrente",
+          "saida": "Exceção de pré-executividade ou Embargos à Execução"
+        },
+        "caso_3_cda_viciada": {
+          "situacao": "CDA sem discriminação adequada dos valores",
+          "analise": "Identificar falta de liquidez e certeza",
+          "saida": "Exceção de pré-executividade por nulidade do título"
+        }
+      },
+      "diferenciais_competitivos": {
+        "precisao": "Análise baseada exclusivamente em fontes oficiais",
+        "completude": "Processo estruturado em 3 fases com validações",
+        "praticidade": "Documentos prontos para uso imediato",
+        "fundamentacao": "Todas conclusões com base legal e jurisprudencial",
+        "versatilidade": "Serve contratos e execuções fiscais"
+      },
+      "proximos_passos_implementacao": {
+        "nota": "Este prompt deve ser usado como template para análises jurídicas",
+        "integracao_agente": "Incorporar capacidade de análise jurídica ao agente de vendas",
+        "fluxo_trabalho": "Cliente solicita análise → Agente executa fases → Apresenta diagnóstico → Propõe serviços"
+      }
+    },
+    "prescricao_decadencia": {
+      "fonte": "Manual de Apoio: Como Identificar a Prescrição e a Decadência de Débitos Fiscais",
+      "versao": "1.0",
+      "data": "Julho de 2025",
+      "autor": "Manus AI",
+      "destinatario": "Equipe de Suporte Técnico - Porto Fiscal",
+      "objetivo": "Fornecer orientações claras e práticas sobre como identificar se um débito fiscal está prescrito ou se o direito de constituí-lo decaiu",
+      "conceitos_fundamentais": {
+        "credito_tributario": {
+          "definicao": "Direito que a Fazenda Pública tem de exigir o cumprimento da obrigação tributária",
+          "constituicao": "Ocorre por lançamento de ofício ou por declaração do próprio contribuinte (DCTF, GFIP, etc.)"
+        },
+        "lancamento": {
+          "definicao": "Procedimento administrativo para verificar ocorrência do fato gerador, determinar matéria tributável, calcular tributo devido, identificar sujeito passivo e propor penalidade"
+        },
+        "diferenca_fundamental": {
+          "decadencia": {
+            "definicao": "Perda do direito da Fazenda Pública de constituir o crédito tributário",
+            "momento": "ANTES da constituição do crédito",
+            "prazo": "5 anos",
+            "fundamento": "Arts. 173 e 174 do CTN"
+          },
+          "prescricao": {
+            "definicao": "Perda do direito da Fazenda Pública de cobrar judicialmente um crédito já constituído",
+            "momento": "DEPOIS da constituição do crédito",
+            "prazo": "5 anos",
+            "fundamento": "Arts. 173 e 174 do CTN"
+          }
+        }
+      },
+      "decadencia": {
+        "conceito": "Perda do direito de constituir o crédito tributário através do lançamento",
+        "prazo_geral": "5 anos",
+        "marco_inicial": {
+          "regra_geral": "Primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado (Art. 173, I, CTN)",
+          "quando_aplica": "Quando não houve manifestação do contribuinte sobre o débito (tributos lançados de ofício)"
+        },
+        "exemplo_pratico": {
+          "situacao": "Débito de COFINS com vencimento em 10 de abril de 1997",
+          "calculo": "Prazo decadencial começa em 1º de janeiro de 1998 e encerra em 31 de dezembro de 2002",
+          "conclusao": "Se até 31/12/2002 o Fisco não efetuou o lançamento, o direito está decaído"
+        },
+        "situacoes_que_afastam": {
+          "declaracao_contribuinte": {
+            "descricao": "Quando o contribuinte apresenta declaração (DCTF, GFIP, etc.)",
+            "efeito": "Constitui o próprio crédito tributário",
+            "consequencia": "Não se fala mais em decadência, apenas em prescrição"
+          },
+          "pagamento_parcial": {
+            "descricao": "Pagamento parcial pode afetar a aplicação da decadência",
+            "nota": "Importante analisar cada caso concreto"
+          }
+        },
+        "tributos_por_homologacao": {
+          "exemplos": "COFINS, PIS, CSLL",
+          "regra": "Contribuinte deve calcular e recolher o tributo",
+          "decadencia": "Aplica quando contribuinte não cumpre adequadamente essa obrigação e Fisco pode lançar de ofício"
+        }
+      },
+      "prescricao": {
+        "conceito": "Perda do direito de cobrar judicialmente um crédito já constituído",
+        "prazo": "5 anos",
+        "pressuposto": "Crédito já existe formalmente, mas Fazenda permaneceu inerte em relação à cobrança judicial",
+        "marco_inicial": "Data da constituição definitiva do crédito tributário",
+        "interrupcao": {
+          "causas": [
+            "Citação pessoal do devedor",
+            "Protesto judicial",
+            "Qualquer ato judicial que constitua em mora",
+            "Qualquer ato inequívoco de reconhecimento do débito pelo devedor"
+          ],
+          "efeito": "Reinicia a contagem do prazo prescricional do zero"
+        },
+        "suspensao": {
+          "causas": [
+            "Moratória",
+            "Depósito do montante integral",
+            "Reclamações e recursos administrativos",
+            "Concessão de liminar ou tutela antecipada",
+            "Parcelamento"
+          ],
+          "efeito": "Pausa a contagem do prazo, que volta a correr quando cessar a causa suspensiva"
+        }
+      },
+      "prescricao_intercorrente": {
+        "definicao": "Extinção da execução fiscal por paralisação prolongada",
+        "requisito": "Paralisação por mais de 5 anos sem movimentação por culpa da Fazenda",
+        "fundamento": "Art. 40, §4º da Lei 6.830/80 e jurisprudência do STJ",
+        "importancia": "Oportunidade valiosa de defesa em execuções fiscais antigas",
+        "aplicacao_vendas": "Argumento forte para clientes com execuções antigas paradas"
+      },
+      "roteiro_pratico_verificacao": {
+        "passo_1": {
+          "acao": "Verificar a natureza do tributo",
+          "objetivo": "Identificar se é tributo sujeito a lançamento de ofício ou por homologação"
+        },
+        "passo_2": {
+          "acao": "Identificar a data do fato gerador",
+          "objetivo": "Determinar quando ocorreu o fato que deu origem à obrigação tributária"
+        },
+        "passo_3": {
+          "acao": "Verificar se houve declaração",
+          "objetivo": "Consultar se o contribuinte apresentou declaração relativa ao período em análise"
+        },
+        "passo_4": {
+          "acao": "Calcular o prazo",
+          "objetivo": "Aplicar as regras do artigo 173 do CTN para determinar início e fim do prazo decadencial"
+        },
+        "passo_5": {
+          "acao": "Verificar se houve lançamento",
+          "objetivo": "Confirmar se o Fisco efetuou algum lançamento antes do término do prazo"
+        }
+      },
+      "casos_praticos": {
+        "caso_1_decadencia": {
+          "situacao": "Tributo não declarado, vencimento em 1997",
+          "analise": "Prazo decadencial: 01/01/1998 a 31/12/2002",
+          "conclusao": "Se não houve lançamento até 31/12/2002, está decaído"
+        },
+        "caso_2_declaracao": {
+          "situacao": "Contribuinte apresentou DCTF",
+          "analise": "Declaração constitui o crédito tributário",
+          "conclusao": "Não há decadência, apenas prescrição a partir da constituição"
+        }
+      },
+      "armadilhas_erros_comuns": {
+        "erro_1": "Confundir decadência com prescrição",
+        "erro_2": "Não verificar se houve declaração do contribuinte",
+        "erro_3": "Calcular prazo a partir da data errada",
+        "erro_4": "Não considerar causas de interrupção ou suspensão",
+        "erro_5": "Ignorar pagamentos parciais que podem alterar a análise"
+      },
+      "checklist_verificacao": {
+        "item_1": "Qual a natureza do tributo?",
+        "item_2": "Quando ocorreu o fato gerador?",
+        "item_3": "Houve declaração do contribuinte?",
+        "item_4": "Qual o prazo decadencial aplicável?",
+        "item_5": "Houve lançamento dentro do prazo?",
+        "item_6": "Se há crédito constituído, quando foi?",
+        "item_7": "Qual o prazo prescricional?",
+        "item_8": "Houve interrupção ou suspensão?",
+        "item_9": "A execução fiscal está parada há mais de 5 anos?"
+      },
+      "aplicacao_vendas": {
+        "oportunidade": "Identificar débitos prescritos ou decaídos é valor imenso para clientes",
+        "argumento_vendas": "Podemos analisar seus débitos e identificar quais estão prescritos ou decaídos, eliminando-os sem pagamento",
+        "diferencial": "Muitas empresas pagam dívidas que já estão extintas por prescrição ou decadência",
+        "urgencia": "Quanto antes identificar, antes pode se defender e eliminar o débito",
+        "processo": {
+          "etapa_1": "Análise gratuita dos débitos do cliente",
+          "etapa_2": "Identificação de prescrições e decadências",
+          "etapa_3": "Apresentação do diagnóstico com economia potencial",
+          "etapa_4": "Proposta de serviço para eliminar os débitos identificados"
+        }
+      },
+      "integracao_com_outros_servicos": {
+        "transacao_tributaria": "Débitos não prescritos podem ser transacionados com descontos",
+        "execucao_fiscal": "Prescrição intercorrente é defesa em execuções antigas",
+        "analise_juridica": "Identificação de prescrição/decadência é parte da análise de contratos e CDAs"
+      },
+      "referencias_legais": {
+        "ctn_art_173": "Marco inicial da decadência",
+        "ctn_art_174": "Marco inicial da prescrição",
+        "lei_6830_art_40": "Prescrição intercorrente em execução fiscal",
+        "jurisprudencia_stj": "Súmulas e teses sobre prescrição e decadência"
+      }
+    },
+    "roteiro_vendas": {
+      "fonte": "Roteiro de Vendas - Porto Fiscal Consultoria Tributária",
+      "titulo": "Como a Consultoria Tributária Evita Autuações Fiscais",
+      "subtitulo": "Guia Completo para o Time de Vendas",
+      "objetivo_roteiro": "Capacitar o time de vendas da Porto Fiscal a apresentar de forma eficaz os benefícios da consultoria tributária preventiva, transformando conhecimento técnico em argumentos de vendas convincentes",
+      "estrutura_abordagem": {
+        "etapa_1_abertura": {
+          "titulo": "Identificação da Dor",
+          "pergunta_abertura": "Você já passou por alguma fiscalização fiscal? Conhece alguém que perdeu o Simples Nacional por erro bobo?",
+          "pontos_chave": [
+            "70% das autuações fiscais em PMEs são por erros evitáveis",
+            "Riscos reais: perda do Simples Nacional, execução fiscal, bloqueio de contas",
+            "Criar senso de urgência sem alarmar excessivamente"
+          ],
+          "frases_impacto": [
+            "Uma simples falha fiscal pode comprometer todo o futuro da empresa",
+            "A maioria dos empresários só descobre os problemas quando já é tarde demais"
+          ]
+        },
+        "etapa_2_solucao": {
+          "titulo": "Apresentação da Solução",
+          "mensagem_principal": "Nosso serviço de consultoria tributária atua preventivamente para que isso nunca aconteça com você",
+          "beneficios_enfatizar": [
+            "Diagnóstico tributário completo",
+            "Planejamento fiscal contínuo",
+            "Defesa especializada em autuações",
+            "Recuperação de créditos pagos indevidamente",
+            "Monitoramento mensal preventivo"
+          ],
+          "diferencial_competitivo": "Não é só declarar imposto corretamente. A gente reduz carga tributária e ainda recupera valores pagos indevidamente"
+        },
+        "etapa_3_segmentacao": {
+          "titulo": "Segmentação por Setor",
+          "setores_maior_risco": {
+            "construcao_civil": {
+              "argumento": "Seu setor tem complexidades específicas que exigem atenção especializada",
+              "riscos": "Múltiplas obrigações acessórias, retenções na fonte, ISS variável"
+            },
+            "servicos_medicos": {
+              "argumento": "Profissionais da saúde enfrentam múltiplas obrigações tributárias",
+              "riscos": "IRPF, IRPJ, ISS, contribuições previdenciárias"
+            },
+            "comercio_varejista": {
+              "argumento": "O volume de operações aumenta exponencialmente os riscos",
+              "riscos": "Substituição tributária, diferencial de alíquotas, ICMS"
+            },
+            "tecnologia": {
+              "argumento": "Startups em crescimento precisam de estrutura fiscal sólida",
+              "riscos": "Enquadramento tributário inadequado, perda de benefícios"
+            },
+            "simples_nacional": {
+              "argumento": "Os limites e regras estão cada vez mais rigorosos",
+              "riscos": "Desenquadramento, multas por falta de segregação de receitas"
+            }
+          }
+        },
+        "etapa_4_demonstracao_valor": {
+          "titulo": "Demonstração de Valor",
+          "beneficios_tangiveis": [
+            "Redução legal de impostos",
+            "Prevenção de multas e autuações",
+            "Recuperação de valores pagos a maior",
+            "Segurança jurídica total"
+          ],
+          "caso_sucesso_real": {
+            "setor": "Saúde",
+            "economia_tributos": "R$ 98.000",
+            "recuperacao_creditos": "R$ 42.000",
+            "autuacao_evitada": "R$ 180.000",
+            "roi": "Investimento na consultoria se pagou em menos de 3 meses"
+          }
+        },
+        "etapa_5_urgencia": {
+          "titulo": "Criação de Urgência",
+          "argumentos_urgencia": [
+            "As autuações têm crescido significativamente",
+            "Muitas empresas estão sendo notificadas por cruzamentos do SPED",
+            "A Receita Federal está cada vez mais rigorosa",
+            "Quanto mais tempo passar, maior o risco acumulado"
+          ],
+          "frase_fechamento": "Prevenir é mais inteligente e menos custoso que remediar"
+        },
+        "etapa_6_fechamento": {
+          "titulo": "Fechamento e Call-to-Action",
+          "proposta_valor_final": "Posso agendar uma análise fiscal gratuita da sua empresa sem compromisso? Pode ser na quinta ou na sexta?",
+          "contato": {
+            "email": "suporte@Portofiscal.com.br",
+            "telefone": "(41) 41030026"
+          }
+        }
+      },
+      "tecnicas_vendas_especificas": {
+        "tratamento_objecoes": {
+          "objecao_1": {
+            "cliente_diz": "Minha contabilidade já cuida disso",
+            "resposta": "Excelente! Trabalhamos em parceria com contadores. Nossa especialização é complementar, focando especificamente na prevenção de autuações e otimização tributária. Muitas vezes identificamos oportunidades que passam despercebidas no dia a dia contábil"
+          },
+          "objecao_2": {
+            "cliente_diz": "Nunca tive problemas fiscais",
+            "resposta": "Isso é ótimo e mostra que você tem cuidado com a empresa. Nossa proposta é garantir que continue assim. Lembre-se que 70% das autuações são por erros que poderiam ser evitados. É como um seguro: você torce para nunca precisar, mas fica tranquilo sabendo que está protegido"
+          },
+          "objecao_3": {
+            "cliente_diz": "É muito caro",
+            "resposta": "Entendo a preocupação com custos. Vamos pensar assim: uma única autuação pode custar dezenas de milhares de reais, sem contar multas e juros. Nosso investimento mensal é uma fração disso e ainda gera economia através da otimização tributária. Muitos clientes economizam mais do que pagam"
+          },
+          "objecao_4": {
+            "cliente_diz": "Preciso pensar",
+            "resposta": "Claro, é uma decisão importante. Que tal começarmos com a análise gratuita? Assim você pode ver exatamente onde estão os riscos da sua empresa e tomar uma decisão baseada em dados concretos, sem compromisso"
+          }
+        },
+        "perguntas_qualificadoras": [
+          "Qual o faturamento anual da empresa?",
+          "Vocês estão no Simples Nacional ou Lucro Presumido?",
+          "Já passaram por alguma fiscalização nos últimos anos?",
+          "Como está organizada a parte fiscal da empresa atualmente?",
+          "Qual o maior receio em relação à área tributária?"
+        ],
+        "sinais_compra": [
+          "Cliente faz perguntas sobre prazos e implementação",
+          "Pergunta sobre valores e formas de pagamento",
+          "Quer saber sobre outros clientes do mesmo setor",
+          "Demonstra preocupação com questões fiscais específicas",
+          "Menciona problemas passados ou atuais"
+        ]
+      },
+      "scripts_abordagem": {
+        "telefonica": {
+          "abertura": "Olá, [Nome]. Aqui é [Seu nome] da Porto Fiscal Consultoria Tributária. Estou entrando em contato porque identificamos que empresas do seu setor têm enfrentado um aumento significativo nas autuações fiscais. Você tem alguns minutos para conversarmos sobre como proteger sua empresa desses riscos?"
+        },
+        "presencial_reuniao": {
+          "abertura": "Obrigado por me receber, [Nome]. Vim aqui porque sei que empresários como você investem muito tempo e energia construindo seus negócios, e seria uma pena ver isso comprometido por questões fiscais que podem ser facilmente evitadas. Posso mostrar como nossa consultoria pode proteger sua empresa?"
+        },
+        "followup_pos_apresentacao": {
+          "mensagem": "[Nome], após nossa conversa, fiquei pensando nos pontos que você mencionou sobre [situação específica]. Preparei uma análise preliminar que pode ser interessante para você. Quando podemos nos reunir para eu apresentar?"
+        }
+      },
+      "materiais_apoio": {
+        "documentos_reunioes": [
+          "Esta apresentação impressa",
+          "Cases de sucesso detalhados",
+          "Checklist de riscos fiscais por setor",
+          "Proposta comercial padrão"
+        ],
+        "informacoes_tecnicas_essenciais": [
+          "Principais mudanças na legislação tributária",
+          "Estatísticas de autuações por setor",
+          "Prazos e procedimentos fiscais importantes",
+          "Benefícios específicos por regime tributário"
+        ]
+      },
+      "metricas_acompanhamento": {
+        "kpis_vendas": [
+          "Taxa de conversão por setor",
+          "Tempo médio de fechamento",
+          "Valor médio dos contratos",
+          "Taxa de rejeição por objeção"
+        ],
+        "indicadores_qualidade": [
+          "Satisfação do cliente pós-venda",
+          "Renovação de contratos",
+          "Indicações recebidas",
+          "Feedback sobre a apresentação"
+        ]
+      },
+      "proximos_passos": {
+        "treinamento_pratico": "Role-play com diferentes cenários",
+        "atualizacao_continua": "Revisão mensal dos argumentos baseada em feedback",
+        "especializacao_setorial": "Aprofundamento em setores específicos",
+        "acompanhamento_resultados": "Análise semanal de performance"
+      },
+      "lembrete_final": "O objetivo não é apenas vender, mas genuinamente proteger as empresas dos riscos fiscais. Quando você acredita no valor que está entregando, a venda se torna uma consequência natural do bom atendimento",
+      "integracao_agente": {
+        "uso_comercial": "Este roteiro deve ser usado como base para todas as abordagens de vendas",
+        "personalizacao": "Adaptar argumentos conforme perfil do cliente e setor",
+        "ferramentas": "Usar análise gratuita como isca para captação",
+        "followup": "Manter contato regular com prospects qualificados"
+      }
+    }
+  },
+  "capacidades": [
+    "Técnicas de vendas (Eduardo Tevah - 28 vídeos)",
+    "Estratégias comerciais Porto Fiscal (41 estratégias)",
+    "Transação tributária (conhecimento técnico ITS EDU)",
+    "Execução fiscal (defesa e estratégias ITS EDU)",
+    "Notícias e programas PGFN atualizados (30 notícias)",
+    "Análise jurídica de contratos e execuções (Prompt Mestre)",
+    "Prescrição e decadência de débitos fiscais (Manual completo)",
+    "Roteiro de vendas Porto Fiscal (Scripts e objeções)"
+  ],
+  "resumo_conhecimento": {
+    "vendas": "Eduardo Tevah + Roteiro Porto Fiscal + 41 Estratégias",
+    "tecnico_tributario": "Transação + Execução Fiscal + Prescrição/Decadência",
+    "juridico": "Análise de contratos + CDAs + Peças processuais",
+    "mercado": "Notícias PGFN + Programas ativos + Oportunidades"
+  }
+}
