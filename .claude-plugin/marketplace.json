@@ -1,0 +1,11 @@
+{
+  "name": "porto-fiscal",
+  "owner": { "name": "Porto Fiscal" },
+  "plugins": [
+    {
+      "name": "prompt-master",
+      "source": "./mods/prompt-master",
+      "description": "Reescreve o prompt antes de enviar, com um botão Prompt Master acima da caixa de texto"
+    }
+  ]
+}
